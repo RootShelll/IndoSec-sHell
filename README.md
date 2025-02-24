@@ -1,5 +1,3 @@
-
-
 ## Password Protection
 
 ### 🔒 File is Password Protected
@@ -91,4 +89,3 @@ IndoSec-sHell is a robust and customizable PHP-based tool that helps ensure the 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```

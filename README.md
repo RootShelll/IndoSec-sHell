@@ -1,3 +1,13 @@
+
+
+## Password Protection
+
+### 🔒 File is Password Protected
+
+To access this file, please use the following password:
+
+**Password**: `R00t`
+
 ```markdown
 # IndoSec-sHell: PHP Security Tool for Ethical Hackers
 
@@ -67,15 +77,6 @@ After the test is executed, IndoSec-sHell will generate a detailed report contai
 Advanced users can modify PHP scripts to add custom tests or enhance security measures. You can customize the test scripts to fit your specific needs or create entirely new ones for specialized tasks.
 
 ---
-
-
-## Password Protection
-
-### 🔒 File is Password Protected
-
-To access this file, please use the following password:
-
-**Password**: `R00t`
 
 ---
 

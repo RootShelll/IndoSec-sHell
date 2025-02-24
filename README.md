@@ -7,7 +7,9 @@
 To access this file, please use the following password:
 
 **Password**: `R00t`
-
+```bash
+R00t
+```
 ```markdown
 # IndoSec-sHell: PHP Security Tool for Ethical Hackers
 
